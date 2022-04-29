@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useSelector, useDispatch } from "react-redux";
-import { Button, InputNumber, List, Row, Col } from "antd";
+import { InputNumber } from "antd";
 
 import {
   decrement,

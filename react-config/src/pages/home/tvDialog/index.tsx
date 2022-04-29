@@ -137,7 +137,7 @@ class TvDialog extends React.Component {
                     this.setCurrentURL(item);
                   }}
                   style={{
-                    backgroundColor: `${item.isSelect ? "#8c5112" : "#1d1c1c"}`,
+                    backgroundColor: `${item.isSelect ? "#8c5112" : "#062b22"}`,
                   }}
                 >
                   {item.name}

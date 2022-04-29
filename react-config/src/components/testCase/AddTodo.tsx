@@ -1,6 +1,6 @@
 import React from "react";
 import { connect } from "react-redux";
-import { Button, Input, List, Row, Col } from "antd";
+import { Button, Input } from "antd";
 
 import { changeStoreString } from "@/store/reducers/counterSlice";
 
